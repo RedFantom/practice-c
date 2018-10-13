@@ -1,2 +1,2 @@
-# practice-c
-C practice exercises
+# Practice C
+This repository contains old solutions to C practice exercises.
